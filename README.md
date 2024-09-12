@@ -27,7 +27,7 @@ make install
 ```
 For further details read the [official documentation](https://llvm.org/docs/CMake.html).
 ## Building Z3 from source
-The following steps will work on Linux:
+The following steps will work on Linux696969:
 
 ```bash
 git clone https://github.com/Z3Prover/z3
